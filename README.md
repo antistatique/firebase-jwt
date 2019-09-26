@@ -9,3 +9,9 @@ $ vim config.json
 ```
 
 Be sure to add the **right Firebase project**'s credential in the `config.json` and to have an existing **config user**.
+
+## Run
+
+```shell
+$ node index.js
+```
