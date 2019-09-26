@@ -1,4 +1,4 @@
-# Hitch - JWT tests
+# Firebase JWT tests
 
 ## Install
 
